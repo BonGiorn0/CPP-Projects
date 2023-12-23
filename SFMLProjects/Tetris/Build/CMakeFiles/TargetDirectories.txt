@@ -1,0 +1,3 @@
+/home/artem/Progs++/SFMLProjects/Tetris/Build/CMakeFiles/main.dir
+/home/artem/Progs++/SFMLProjects/Tetris/Build/CMakeFiles/edit_cache.dir
+/home/artem/Progs++/SFMLProjects/Tetris/Build/CMakeFiles/rebuild_cache.dir

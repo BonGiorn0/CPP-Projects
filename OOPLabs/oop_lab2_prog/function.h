@@ -1,0 +1,1 @@
+double SolveLinearEquation(double coefA, double coefB);

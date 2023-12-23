@@ -1,0 +1,9 @@
+FixedDeposit:
+7.28583
+7.245
+AccumulativeDeposit:
+7.57494
+7.49
+VIPDeposit:
+8.1971
+8.0143

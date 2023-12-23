@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/Game.cpp.o CMakeFiles/main.dir/Tile.cpp.o CMakeFiles/main.dir/Shape.cpp.o -o main  -lsfml-graphics -lsfml-window -lsfml-system 
